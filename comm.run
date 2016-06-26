@@ -1,0 +1,5 @@
+solve; 
+display vref,tref, v, theta, xpos, zpos, accelr, accel, jerk, jerkr, time, w;
+
+
+
